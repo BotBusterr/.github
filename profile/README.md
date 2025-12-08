@@ -1,15 +1,14 @@
 # Hi there 👋
 
-Welcome to **Cinetools** — an organization dedicated to building tools around movies.
+Welcome to **BotBuster** — an organization dedicated to building tools around movies.
 
 ## Projects
 
-#### CineFetch
-CineFetch is an asynchronous Python tool designed to fetch movie data from TMDb.
+#### BotBuster-API
+An asynchronous Python tool to fetch movie data from TMDb.
 
-#### CinePy
-CinePy is a Python‑based movie recommendation system that generates personalized movie suggestions.
-
+#### BotBuster-Discord
+A Discord bot that recommends movies using machine learning based on your watchlist.
 
 ## Contributing
 Contributions are welcome. Issues, feature requests, and pull requests help improve the tools and expand the ecosystem.
@@ -19,4 +18,4 @@ Documentation and usage examples are available within each repository. Explore t
 
 ---
 
-Cinetools is all about making movie data accessible, useful, and fun to work with.
+

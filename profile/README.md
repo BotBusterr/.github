@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to **BotBuster** — an organization dedicated to building tools around movies.
+Welcome to **BotBuster**.
 
 ## Projects
 
@@ -9,6 +9,9 @@ An asynchronous Python tool to fetch movie data from TMDb.
 
 #### BotBuster-Discord
 A Discord bot that recommends movies using machine learning based on your watchlist.
+
+#### BotBuster-Ollama
+Movie recommender using TMDB and Ollama. 
 
 ## Contributing
 Contributions are welcome. Issues, feature requests, and pull requests help improve the tools and expand the ecosystem.
